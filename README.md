@@ -28,7 +28,7 @@ Mera naam **Shakti Om Sharma** hai, te main ek software engineering da student h
 
 ---
 
-🌟 Takk for at du besøkte profilen min! / Thank you for visiting my profile! / Mere profile 'te aan layi dhanyavaad!
+🌟 Takk for at du besøkte profilen min! / Thank you for visiting my profile! / Mere profile 'te aan layi taanvaad!
 
 <!---
 shaktios/shaktios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
