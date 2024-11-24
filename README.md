@@ -23,8 +23,8 @@ Mera naam **Shakti Om Sharma** hai, te main ek software engineering da student h
 ---
 
 ## 💬 Kontakt / Contact / Sampark:
-- **LinkedIn:** [🔗Linkedin] https://www.linkedin.com/in/shakti-om-sharma-a8066822b/
-- **E-post / Email:** [📧 Email]  mailto:shaktiforgithub@gmail.com
+- **LinkedIn:** [🔗] https://www.linkedin.com/in/shakti-om-sharma-a8066822b/
+- **E-post / Email:** [📧]  mailto:shaktiforgithub@gmail.com
 
 ---
 
