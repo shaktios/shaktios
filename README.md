@@ -13,18 +13,18 @@ Mera naam **Shakti Om Sharma** hai, te main ek software engineering da student h
 ---
 
 ## 🛠️ Ferdigheter / Skills / Hunar:
-- **Programmeringsspråk / Programming Languages / Programming Bhaashavaan:**
+- **Programmeringsspråk / Programming Languages / Programming Bhaashavaan:** 🖥️
   - Python, Java, HTML, CSS, grunnleggende JavaScript / basic JavaScript 
-- **Verktøy / Tools / Saadhan:**
+- **Verktøy / Tools / Saadhan:** 🛠️
   - Visual Studio Code (VS Code), Git
-- **Språk / Languages / Bhaashavaan:**
+- **Språk / Languages / Bhaashavaan:** 🌐
   - Norsk, Engelsk, Punjabi, Hindi
 
 ---
 
 ## 💬 Kontakt / Contact / Sampark:
-- **LinkedIn:** https://www.linkedin.com/in/shakti-om-sharma-a8066822b/
-- **E-post / Email:** mailto:shaktiforgithub@gmail.com
+- **LinkedIn:** [🔗Linkedin] https://www.linkedin.com/in/shakti-om-sharma-a8066822b/
+- **E-post / Email:** [📧 Email]  mailto:shaktiforgithub@gmail.com
 
 ---
 
