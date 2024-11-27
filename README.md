@@ -1,6 +1,6 @@
 # Hei! / Hello! / Namaste! / Sat Sri Akal! 👋
 
-Jeg heter **Shakti Om Sharma**, og jeg er en dataingeniørstudent på **NTNU**
+Jeg heter **Shakti Om Sharma**, og jeg er en dataingeniørstudent som studerer ved **NTNU**
 
 
 My name is **Shakti Om Sharma**, and I am a software engineering student studying at the **Norwegian University of Science and Technology**
