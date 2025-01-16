@@ -16,7 +16,7 @@ Mera naam **Shakti Om Sharma** hai, te main ek software engineering da student h
 - **Programmeringsspråk / Programming Languages / Programming Bhaashavaan:** 🖥️
   - Python, Java, HTML, CSS, grunnleggende JavaScript / basic JavaScript 
 - **Verktøy / Tools / Saadhan:** 🛠️
-  - Visual Studio Code (VS Code), Git
+  - Visual Studio Code (VS Code), Git, IntelliJ IDEA
 - **Språk / Languages / Bhaashavaan:** 🌐
   - Norsk, Engelsk, Punjabi, Hindi
 
